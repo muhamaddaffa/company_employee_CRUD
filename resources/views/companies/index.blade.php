@@ -10,7 +10,6 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 bg-white border-b border-gray-200">
                     <div class="container">
-                        <h1>Companies</h1>
                         <a href="{{ route('companies.create') }}" class="btn btn-primary">Add Company</a>
                         <table class="table mt-3">
                             <thead>
